@@ -1,4 +1,16 @@
- # dependencies
+.idea
+.DS_Store
+thumbs.db
+*.log
+.settings
+.session.vim
+coverage.html
+lib-cov/
+*.sublime-workspace
+*.sublime-project
+tmp/
+
+# dependencies
 node_modules
 
 # testing
